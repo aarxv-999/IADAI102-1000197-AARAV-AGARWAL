@@ -1,6 +1,14 @@
-# Made by: Aarav Agarwal, IBCP-XI
-## Summative Assessment 2
+# Made by: Aarav Agarwal, IBCP-XII
+## Summative Assessment
 
+### Info
+- Student's full name: Aarav Agarwal
+- Candidate Registration Number: 1000197
+- CRS Name: Artificial Intelligence
+- Course name: Mathematics for AI II
+- School Name: Birla Open Minds International School
+- Scenaro Chosen: Scenario 2 - Hospital Inpatient Discharges Dashboard
+  
 ### Project Overview
 
 This project is an interactive Streamlit dashboard built for the Summative Assessment of Mathematics for AI-II. <br/>
